@@ -1,26 +1,12 @@
 ### Hi, I'm Sanchali - Data Scientist, problem solver, and lifelong learner. Welcome to my GitHub!
 
-👩‍🎓 M.S. in Business Analytics at W.P. School of Business, Arizona State Univeristy, 2019
+👩‍🎓 M.S. in Business Analytics at W.P. School of Business, ASU, 2019.
 
-🌱 **What you’ll find here:**  
-- Open-source projects that explore real-world problems through data  
-- Experiments with machine learning models and tools  
-- Project walkthroughs where I share my thought process  
-- Code snippets and tutorials on data science techniques
+🌱 I’m passionate about open-source projects, sharing knowledge, and exploring new ML techniques.  
+🎓 This space is for data scientists, scholars and leaders who love data-driven innovation.  
+💡 Currently exploring interpretability in ML models and ethical AI.  
 
-🎓 **Why I do what I do:**  
-- Data science isn't just about algorithms—it's about asking the right questions, and I'm here for all the curious minds out there!  
-- I’m always up for a discussion on new approaches, especially in the realm of AI/ML.
-
-📈 **Who this space is for:**  
-- Fellow data scientists, scholars, academicians exploring cutting-edge techniques 
-- Leaders in data science who want to engage with real-world data-driven projects
-- Tech recruiters looking for someone who thrives on collaboration and solving complex problems
-
-🔍 **Currently exploring:**  
-Interpretability in ML models, and the intersection of AI and ethical data use.
-
-🤝 **Let’s collaborate!**  
-💬 Always down for discussions
-Have a cool project idea or just want to chat about the latest trends in AI? Feel free to reach out @ sanch.singhal@gmail.com
-Let's connect on linkedIn: [https://www.linkedin.com/in/sanchalisinghal/](url)
+📧 **Let’s connect!**  
+You can reach me at: [your.email@example.com]  
+🔗 Connect with me on [linkedIn][https://www.linkedin.com/in/sanchalisinghal/](url)
+[![Sanchali’s GitHub stats](https://github-readme-stats.vercel.app/api?username=datasanchali&count_provate=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/datasanchali/github-readme-stats)
