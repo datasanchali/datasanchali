@@ -22,5 +22,5 @@ Interpretability in ML models, and the intersection of AI and ethical data use.
 
 🤝 **Let’s collaborate!**  
 💬 Always down for discussions
-Have a cool project idea or just want to chat about the latest trends in AI? Feel free to reach out @ sanch.singhal@gmail.com 
-Let's connect on linkeidn: [https://www.linkedin.com/in/sanchalisinghal/](url)
+Have a cool project idea or just want to chat about the latest trends in AI? Feel free to reach out @ sanch.singhal@gmail.com
+Let's connect on linkedIn: [https://www.linkedin.com/in/sanchalisinghal/](url)
