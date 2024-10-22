@@ -3,7 +3,9 @@
 👩‍🎓 M.S. in Business Analytics at W.P. School of Business, ASU, 2019.
 
 🌱 I’m passionate about open-source projects, sharing knowledge, and exploring new ML techniques.  
-🎓 This space is for data scientists, scholars and leaders who love data-driven innovation.  
+
+🎓 This space is for data scientists, analytics engineers, academcians and leaders in data science who want to engage with real-world projects.
+
 💡 Currently exploring interpretability in ML models and ethical AI.
 
 📧 Let’s connect You can reach me at sanch.singhal@gmail.com
