@@ -4,9 +4,9 @@
 
 🌱 I’m passionate about open-source projects, sharing knowledge, and exploring new ML techniques.  
 🎓 This space is for data scientists, scholars and leaders who love data-driven innovation.  
-💡 Currently exploring interpretability in ML models and ethical AI.  
+💡 Currently exploring interpretability in ML models and ethical AI.
 
-📧 **Let’s connect!**  
-You can reach me at: [your.email@example.com]  
-🔗 Connect with me on [linkedIn][https://www.linkedin.com/in/sanchalisinghal/](url)
+📧 Let’s connect You can reach me at sanch.singhal@gmail.com
+
+
 [![Sanchali’s GitHub stats](https://github-readme-stats.vercel.app/api?username=datasanchali&count_provate=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/datasanchali/github-readme-stats)
