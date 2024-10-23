@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Sanchali!
 
-  👩‍🎓 M.S. in Business Analytics at W.P. School of Business, ASU, 2019<br>
+  👩‍💻 I'm a Data Science professional with over 6 years of industry experience<br>
+  👩‍🎓 I got my M.S. in Business Analytics at W.P. Carey School of Business, ASU in 2019<br>
   🌱 I’m passionate about open-source projects, sharing knowledge, and exploring new ML techniques<br>
   🎓 This space is for data scientists, analytics engineers, academcians and leaders in data science who want to engage with real-world projects<br>
   💡 Currently exploring interpretability in ML models and ethical AI<br>
